@@ -1,0 +1,732 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+APP_SCHEDULER_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1058;"	d
+APP_SCHEDULER_WITH_PAUSE	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1064;"	d
+APP_SCHEDULER_WITH_PROFILER	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1071;"	d
+APP_TIMER_CONFIG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2783;"	d
+APP_TIMER_CONFIG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2767;"	d
+APP_TIMER_CONFIG_INITIAL_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2751;"	d
+APP_TIMER_CONFIG_IRQ_PRIORITY	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1108;"	d
+APP_TIMER_CONFIG_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2724;"	d
+APP_TIMER_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2735;"	d
+APP_TIMER_CONFIG_OP_QUEUE_SIZE	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1118;"	d
+APP_TIMER_CONFIG_RTC_FREQUENCY	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1091;"	d
+APP_TIMER_CONFIG_SWI_NUMBER	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1163;"	d
+APP_TIMER_CONFIG_USE_SCHEDULER	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1125;"	d
+APP_TIMER_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1079;"	d
+APP_TIMER_KEEPS_RTC_ACTIVE	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1135;"	d
+APP_TIMER_SAFE_WINDOW_MS	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1146;"	d
+APP_TIMER_WITH_PROFILER	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1156;"	d
+APP_USBD_CDC_ACM_CONFIG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2834;"	d
+APP_USBD_CDC_ACM_CONFIG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2818;"	d
+APP_USBD_CDC_ACM_CONFIG_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2791;"	d
+APP_USBD_CDC_ACM_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2802;"	d
+APP_USBD_CONFIG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2885;"	d
+APP_USBD_CONFIG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2869;"	d
+APP_USBD_CONFIG_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2842;"	d
+APP_USBD_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2853;"	d
+APP_USBD_DUMMY_CONFIG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2936;"	d
+APP_USBD_DUMMY_CONFIG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2920;"	d
+APP_USBD_DUMMY_CONFIG_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2893;"	d
+APP_USBD_DUMMY_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2904;"	d
+APP_USBD_MSC_CONFIG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2987;"	d
+APP_USBD_MSC_CONFIG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2971;"	d
+APP_USBD_MSC_CONFIG_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2944;"	d
+APP_USBD_MSC_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2955;"	d
+APP_USBD_NRF_DFU_TRIGGER_CONFIG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3038;"	d
+APP_USBD_NRF_DFU_TRIGGER_CONFIG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3022;"	d
+APP_USBD_NRF_DFU_TRIGGER_CONFIG_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2995;"	d
+APP_USBD_NRF_DFU_TRIGGER_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3006;"	d
+BUF_FREE	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.h	/^	BUF_FREE = 0,$/;"	e	enum:ringbuf_status
+BUF_IN_RF	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.h	/^	BUF_IN_RF = 1,$/;"	e	enum:ringbuf_status
+BUF_IN_SPI	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.h	/^	BUF_IN_SPI = 4,$/;"	e	enum:ringbuf_status
+BUF_OUT_RF	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.h	/^	BUF_OUT_RF = 2,$/;"	e	enum:ringbuf_status
+CLOCK_CONFIG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1734;"	d
+CLOCK_CONFIG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1718;"	d
+CLOCK_CONFIG_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1691;"	d
+CLOCK_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1702;"	d
+CMSIS_CONFIG_TOOL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/Makefile	/^CMSIS_CONFIG_TOOL := $(SDK_ROOT)\/external_tools\/cmsisconfig\/CMSIS_Configuration_Wizard.jar$/;"	m
+COMP_CONFIG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1785;"	d
+COMP_CONFIG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1769;"	d
+COMP_CONFIG_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1742;"	d
+COMP_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1753;"	d
+DEVICE_CMD_I2S_DATA	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	/^	DEVICE_CMD_I2S_DATA 	= 5,$/;"	e	enum:GS_DEVICE_CMD_STATE
+DEVICE_CMD_RF_DATA	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	/^	DEVICE_CMD_RF_DATA 	= 4,$/;"	e	enum:GS_DEVICE_CMD_STATE
+DEVICE_CMD_START_I2S	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	/^	DEVICE_CMD_START_I2S 	= 2,$/;"	e	enum:GS_DEVICE_CMD_STATE
+DEVICE_CMD_START_RF	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	/^	DEVICE_CMD_START_RF 	= 0,$/;"	e	enum:GS_DEVICE_CMD_STATE
+DEVICE_CMD_STOP_I2S	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	/^	DEVICE_CMD_STOP_I2S 	= 3,$/;"	e	enum:GS_DEVICE_CMD_STATE
+DEVICE_CMD_STOP_RF	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	/^	DEVICE_CMD_STOP_RF 	= 1,$/;"	e	enum:GS_DEVICE_CMD_STATE
+DEVICE_CMD_UNKNOWN	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	/^	DEVICE_CMD_UNKNOWN 	= -1,$/;"	e	enum:GS_DEVICE_CMD_STATE
+ESB_DEVICE_PIPE	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_nrf_esb.c	20;"	d	file:
+ESB_RX_PAYLOAD_LENGTH	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_nrf_esb.c	21;"	d	file:
+GPIOTE_CONFIG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1836;"	d
+GPIOTE_CONFIG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1820;"	d
+GPIOTE_CONFIG_IRQ_PRIORITY	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	538;"	d
+GPIOTE_CONFIG_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1793;"	d
+GPIOTE_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1804;"	d
+GPIOTE_CONFIG_NUM_OF_LOW_POWER_EVENTS	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	521;"	d
+GPIOTE_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	517;"	d
+GS_DEFAULT_ADDR_PREFIX	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_rf.h	13;"	d
+GS_DEFAULT_BASE_ADDRESS_0	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_rf.h	11;"	d
+GS_DEFAULT_BASE_ADDRESS_1	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_rf.h	12;"	d
+GS_DEFAULT_CHANNEL_TABLE	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_rf.h	14;"	d
+GS_DEFAULT_CHNNUM	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_rf.h	15;"	d
+GS_DEFAULT_DEVICE_NUMBER	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.h	14;"	d
+GS_DEFAULT_RXRINGBUF_COUNT	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.h	12;"	d
+GS_DEFAULT_SAMPLE_COUNT	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.h	20;"	d
+GS_DEFAULT_SAMPLE_UNIT	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.h	19;"	d
+GS_DEFAULT_TWIS_ADDR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	15;"	d
+GS_DEFAULT_TWIS_PRIORITY	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	18;"	d
+GS_DEFAULT_TWIS_SCL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	16;"	d
+GS_DEFAULT_TWIS_SDA	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	17;"	d
+GS_DEFAULT_TXRINGBUF_COUNT	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.h	13;"	d
+GS_DEVICE_CMD_STATE	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	/^enum GS_DEVICE_CMD_STATE {$/;"	g
+GS_GPIO_HIGH	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_gpio.h	10;"	d
+GS_GPIO_LOW	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_gpio.h	11;"	d
+GS_RF_TIMER_INSTANCE	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_timer.h	19;"	d
+GS_SPIS_CSN_PIN	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	38;"	d
+GS_SPIS_DEFAULT_DEF_CHARACTER	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	39;"	d
+GS_SPIS_DEFAULT_ORC_CHARACTER	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	40;"	d
+GS_SPIS_INSTANCE	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	33;"	d
+GS_SPIS_IRQ_PRIORITY_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	41;"	d
+GS_SPIS_MAX_LENGTH	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	34;"	d
+GS_SPIS_MISO_PIN	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	37;"	d
+GS_SPIS_MOSI_PIN	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	36;"	d
+GS_SPIS_READY_PIN	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_gpio.h	12;"	d
+GS_SPIS_SCK_PIN	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	35;"	d
+GS_SPIS_STATE	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	/^enum GS_SPIS_STATE {$/;"	g
+GS_SPIS_STATE_AUDIO	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	/^	GS_SPIS_STATE_AUDIO 	= (1 << 2),$/;"	e	enum:GS_SPIS_STATE
+GS_SPIS_STATE_IDEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	/^	GS_SPIS_STATE_IDEL 	= -1,$/;"	e	enum:GS_SPIS_STATE
+GS_SPIS_STATE_RXCMD	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	/^	GS_SPIS_STATE_RXCMD 	= (1 << 1),$/;"	e	enum:GS_SPIS_STATE
+GS_SPIS_STATE_SETUP	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	/^	GS_SPIS_STATE_SETUP 	= (1 << 0),$/;"	e	enum:GS_SPIS_STATE
+GS_SPIS_TIMER_INSTANCE	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_timer.h	20;"	d
+GS_SPI_HEAD_LENGTH	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.h	17;"	d
+GS_SPI_HEAD_START	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.h	16;"	d
+GS_TWIS_INSTANCE	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	14;"	d
+GZLL_LNA_ACTIVE_HIGH	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	486;"	d
+GZLL_LNA_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	472;"	d
+GZLL_PA_ACTIVE_HIGH	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	479;"	d
+GZLL_PA_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	465;"	d
+GZLL_PA_LNA_ANT_SEL_PIN	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	177;"	d
+GZLL_PA_LNA_CHL_PIN	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	97;"	d
+GZLL_PA_LNA_CONTROL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	55;"	d
+GZLL_PA_LNA_CPS_PIN	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	137;"	d
+GZLL_PA_LNA_CRX_PIN	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	297;"	d
+GZLL_PA_LNA_CSD_PIN	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	217;"	d
+GZLL_PA_LNA_CTX_PIN	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	257;"	d
+GZLL_PA_LNA_PPI_CHAN_1	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	360;"	d
+GZLL_PA_LNA_PPI_CHAN_2	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	387;"	d
+GZLL_PA_LNA_PPI_CHAN_3	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	414;"	d
+GZLL_PA_LNA_PPI_CHAN_4	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	441;"	d
+GZLL_PA_LNA_RAMP_UP_TIME	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	493;"	d
+GZLL_PA_LNA_RX_GPIOTE_CHAN	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	333;"	d
+GZLL_PA_LNA_TIMER_NUM	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	452;"	d
+GZLL_PA_LNA_TX_GPIOTE_CHAN	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	318;"	d
+GZLL_TX_STATISTICS	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	505;"	d
+LINKER_SCRIPT	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/Makefile	/^  LINKER_SCRIPT  := esb_prx_gcc_nrf52.ld$/;"	m
+LPCOMP_CONFIG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1887;"	d
+LPCOMP_CONFIG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1871;"	d
+LPCOMP_CONFIG_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1844;"	d
+LPCOMP_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1855;"	d
+MAX3421E_HOST_CONFIG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1938;"	d
+MAX3421E_HOST_CONFIG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1922;"	d
+MAX3421E_HOST_CONFIG_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1895;"	d
+MAX3421E_HOST_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1906;"	d
+MEMORY_MANAGER_LARGE_BLOCK_COUNT	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4293;"	d
+MEMORY_MANAGER_LARGE_BLOCK_SIZE	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4300;"	d
+MEMORY_MANAGER_MEDIUM_BLOCK_COUNT	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4279;"	d
+MEMORY_MANAGER_MEDIUM_BLOCK_SIZE	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4286;"	d
+MEMORY_MANAGER_SMALL_BLOCK_COUNT	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4265;"	d
+MEMORY_MANAGER_SMALL_BLOCK_SIZE	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4272;"	d
+MEMORY_MANAGER_XLARGE_BLOCK_COUNT	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4307;"	d
+MEMORY_MANAGER_XLARGE_BLOCK_SIZE	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4314;"	d
+MEMORY_MANAGER_XSMALL_BLOCK_COUNT	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4335;"	d
+MEMORY_MANAGER_XSMALL_BLOCK_SIZE	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4342;"	d
+MEMORY_MANAGER_XXLARGE_BLOCK_COUNT	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4321;"	d
+MEMORY_MANAGER_XXLARGE_BLOCK_SIZE	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4328;"	d
+MEMORY_MANAGER_XXSMALL_BLOCK_COUNT	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4349;"	d
+MEMORY_MANAGER_XXSMALL_BLOCK_SIZE	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4356;"	d
+MEM_MANAGER_CONFIG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4405;"	d
+MEM_MANAGER_CONFIG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4389;"	d
+MEM_MANAGER_CONFIG_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4362;"	d
+MEM_MANAGER_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4373;"	d
+MEM_MANAGER_DISABLE_API_PARAM_CHECK	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4414;"	d
+MEM_MANAGER_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4259;"	d
+NRFCMD_DISCONNECT	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_prx.h	/^	NRFCMD_DISCONNECT = 1,$/;"	e	enum:prx_cmd
+NRFCMD_UNKNOWN	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_prx.h	/^	NRFCMD_UNKNOWN = 0,$/;"	e	enum:prx_cmd
+NRFX_GPIOTE_CONFIG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	614;"	d
+NRFX_GPIOTE_CONFIG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	598;"	d
+NRFX_GPIOTE_CONFIG_IRQ_PRIORITY	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	565;"	d
+NRFX_GPIOTE_CONFIG_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	571;"	d
+NRFX_GPIOTE_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	582;"	d
+NRFX_GPIOTE_CONFIG_NUM_OF_LOW_POWER_EVENTS	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	550;"	d
+NRFX_GPIOTE_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	546;"	d
+NRFX_PRS_BOX_0_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	630;"	d
+NRFX_PRS_BOX_1_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	637;"	d
+NRFX_PRS_BOX_2_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	644;"	d
+NRFX_PRS_BOX_3_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	651;"	d
+NRFX_PRS_BOX_4_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	658;"	d
+NRFX_PRS_CONFIG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	707;"	d
+NRFX_PRS_CONFIG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	691;"	d
+NRFX_PRS_CONFIG_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	664;"	d
+NRFX_PRS_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	675;"	d
+NRFX_PRS_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	624;"	d
+NRFX_SPIS1_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4425;"	d
+NRFX_SPIS_DEFAULT_CONFIG_IRQ_PRIORITY	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4438;"	d
+NRFX_SPIS_DEFAULT_DEF	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4429;"	d
+NRFX_SPIS_DEFAULT_ORC	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4433;"	d
+NRFX_SPIS_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4421;"	d
+NRFX_TIMER_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4216;"	d
+NRFX_TIMER_DEFAULT_CONFIG_FREQUENCY	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4244;"	d
+NRFX_TIMER_DEFAULT_CONFIG_IRQ_PRIORITY	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4212;"	d
+NRFX_TIMER_DEFAULT_CONFIG_MODE	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4248;"	d
+NRFX_TIMER_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4208;"	d
+NRFX_TWIS0_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4449;"	d
+NRFX_TWIS_ASSUME_INIT_AFTER_RESET_ONLY	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4461;"	d
+NRFX_TWIS_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4445;"	d
+NRFX_TWIS_NO_SYNC_MODE	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4453;"	d
+NRFX_UART0_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	842;"	d
+NRFX_UARTE0_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	721;"	d
+NRFX_UARTE_CONFIG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	828;"	d
+NRFX_UARTE_CONFIG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	812;"	d
+NRFX_UARTE_CONFIG_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	785;"	d
+NRFX_UARTE_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	796;"	d
+NRFX_UARTE_DEFAULT_CONFIG_BAUDRATE	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	764;"	d
+NRFX_UARTE_DEFAULT_CONFIG_HWFC	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	730;"	d
+NRFX_UARTE_DEFAULT_CONFIG_IRQ_PRIORITY	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	779;"	d
+NRFX_UARTE_DEFAULT_CONFIG_PARITY	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	739;"	d
+NRFX_UARTE_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	717;"	d
+NRFX_UART_CONFIG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	949;"	d
+NRFX_UART_CONFIG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	933;"	d
+NRFX_UART_CONFIG_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	906;"	d
+NRFX_UART_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	917;"	d
+NRFX_UART_DEFAULT_CONFIG_BAUDRATE	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	885;"	d
+NRFX_UART_DEFAULT_CONFIG_HWFC	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	851;"	d
+NRFX_UART_DEFAULT_CONFIG_IRQ_PRIORITY	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	900;"	d
+NRFX_UART_DEFAULT_CONFIG_PARITY	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	860;"	d
+NRFX_UART_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	838;"	d
+NRF_ATFIFO_CONFIG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3101;"	d
+NRF_ATFIFO_CONFIG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3085;"	d
+NRF_ATFIFO_CONFIG_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3046;"	d
+NRF_ATFIFO_CONFIG_LOG_INIT_FILTER_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3069;"	d
+NRF_ATFIFO_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3057;"	d
+NRF_BALLOC_CLI_CMDS	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1220;"	d
+NRF_BALLOC_CONFIG_BASIC_CHECKS_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1199;"	d
+NRF_BALLOC_CONFIG_DATA_TRASHING_CHECK_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1213;"	d
+NRF_BALLOC_CONFIG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3168;"	d
+NRF_BALLOC_CONFIG_DEBUG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1179;"	d
+NRF_BALLOC_CONFIG_DOUBLE_FREE_CHECK_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1206;"	d
+NRF_BALLOC_CONFIG_HEAD_GUARD_WORDS	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1185;"	d
+NRF_BALLOC_CONFIG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3152;"	d
+NRF_BALLOC_CONFIG_INITIAL_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3136;"	d
+NRF_BALLOC_CONFIG_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3109;"	d
+NRF_BALLOC_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3120;"	d
+NRF_BALLOC_CONFIG_TAIL_GUARD_WORDS	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1192;"	d
+NRF_BALLOC_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1174;"	d
+NRF_BLOCK_DEV_EMPTY_CONFIG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3231;"	d
+NRF_BLOCK_DEV_EMPTY_CONFIG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3215;"	d
+NRF_BLOCK_DEV_EMPTY_CONFIG_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3176;"	d
+NRF_BLOCK_DEV_EMPTY_CONFIG_LOG_INIT_FILTER_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3199;"	d
+NRF_BLOCK_DEV_EMPTY_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3187;"	d
+NRF_BLOCK_DEV_QSPI_CONFIG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3294;"	d
+NRF_BLOCK_DEV_QSPI_CONFIG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3278;"	d
+NRF_BLOCK_DEV_QSPI_CONFIG_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3239;"	d
+NRF_BLOCK_DEV_QSPI_CONFIG_LOG_INIT_FILTER_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3262;"	d
+NRF_BLOCK_DEV_QSPI_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3250;"	d
+NRF_BLOCK_DEV_RAM_CONFIG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3357;"	d
+NRF_BLOCK_DEV_RAM_CONFIG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3341;"	d
+NRF_BLOCK_DEV_RAM_CONFIG_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3302;"	d
+NRF_BLOCK_DEV_RAM_CONFIG_LOG_INIT_FILTER_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3325;"	d
+NRF_BLOCK_DEV_RAM_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3313;"	d
+NRF_CLI_BLE_UART_CONFIG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3408;"	d
+NRF_CLI_BLE_UART_CONFIG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3392;"	d
+NRF_CLI_BLE_UART_CONFIG_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3365;"	d
+NRF_CLI_BLE_UART_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3376;"	d
+NRF_CLI_LIBUARTE_CONFIG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3459;"	d
+NRF_CLI_LIBUARTE_CONFIG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3443;"	d
+NRF_CLI_LIBUARTE_CONFIG_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3416;"	d
+NRF_CLI_LIBUARTE_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3427;"	d
+NRF_CLI_UART_CONFIG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3510;"	d
+NRF_CLI_UART_CONFIG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3494;"	d
+NRF_CLI_UART_CONFIG_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3467;"	d
+NRF_CLI_UART_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3478;"	d
+NRF_DEVICE_BATINFO	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	54;"	d
+NRF_DEVICE_BATSTATE	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	56;"	d
+NRF_DEVICE_CNNT	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	33;"	d
+NRF_DEVICE_DISC	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	35;"	d
+NRF_DEVICE_PID	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	25;"	d
+NRF_DEVICE_SID	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	29;"	d
+NRF_DEVICE_VER	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	37;"	d
+NRF_DEVICE_VID	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	27;"	d
+NRF_ESB	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	/^	NRF_ESB$/;"	e	enum:nrf_type
+NRF_ESB_MAX_PAYLOAD_LENGTH	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4252;"	d
+NRF_FLASH_INIT	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	31;"	d
+NRF_FPRINTF_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1231;"	d
+NRF_FSTORAGE_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4465;"	d
+NRF_FSTORAGE_PARAM_CHECK_DISABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4469;"	d
+NRF_FSTORAGE_SD_MAX_RETRIES	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4478;"	d
+NRF_FSTORAGE_SD_MAX_WRITE_SIZE	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4482;"	d
+NRF_FSTORAGE_SD_QUEUE_SIZE	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4474;"	d
+NRF_GZLL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	/^	NRF_GZLL = 1,$/;"	e	enum:nrf_type
+NRF_HOST_ADDR0	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	74;"	d
+NRF_HOST_ADDR1	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	76;"	d
+NRF_HOST_CHNSET	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	86;"	d
+NRF_HOST_CHNTAB	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	84;"	d
+NRF_HOST_DEVCNT	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	72;"	d
+NRF_HOST_PARINFO	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	90;"	d
+NRF_HOST_PREFIX	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	78;"	d
+NRF_HOST_RBCNT	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	66;"	d
+NRF_HOST_RESV	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	80;"	d
+NRF_HOST_SPCNT	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	70;"	d
+NRF_HOST_SPUNIT	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	68;"	d
+NRF_LIBUARTE_CONFIG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3561;"	d
+NRF_LIBUARTE_CONFIG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3545;"	d
+NRF_LIBUARTE_CONFIG_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3518;"	d
+NRF_LIBUARTE_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3529;"	d
+NRF_LOG_ALLOW_OVERFLOW	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1370;"	d
+NRF_LOG_BACKEND_RTT_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1257;"	d
+NRF_LOG_BACKEND_RTT_TEMP_BUFFER_SIZE	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1266;"	d
+NRF_LOG_BACKEND_RTT_TX_RETRY_CNT	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1282;"	d
+NRF_LOG_BACKEND_RTT_TX_RETRY_DELAY_MS	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1271;"	d
+NRF_LOG_BACKEND_UART_BAUDRATE	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1317;"	d
+NRF_LOG_BACKEND_UART_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1290;"	d
+NRF_LOG_BACKEND_UART_TEMP_BUFFER_SIZE	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1327;"	d
+NRF_LOG_BACKEND_UART_TX_PIN	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1294;"	d
+NRF_LOG_BUFSIZE	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1388;"	d
+NRF_LOG_CLI_CMDS	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1395;"	d
+NRF_LOG_COLOR_DEFAULT	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1472;"	d
+NRF_LOG_DEFAULT_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1407;"	d
+NRF_LOG_DEFERRED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1416;"	d
+NRF_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1335;"	d
+NRF_LOG_ERROR_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1488;"	d
+NRF_LOG_FILTERS_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1423;"	d
+NRF_LOG_MSGPOOL_ELEMENT_COUNT	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1357;"	d
+NRF_LOG_MSGPOOL_ELEMENT_SIZE	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1347;"	d
+NRF_LOG_STR_FORMATTER_TIMESTAMP_FORMAT_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4157;"	d
+NRF_LOG_STR_PUSH_BUFFER_SIZE	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1437;"	d
+NRF_LOG_STR_PUSH_BUFFER_SIZE	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1451;"	d
+NRF_LOG_TIMESTAMP_DEFAULT_FREQUENCY	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1518;"	d
+NRF_LOG_USES_COLORS	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1457;"	d
+NRF_LOG_USES_TIMESTAMP	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1514;"	d
+NRF_LOG_WARNING_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1504;"	d
+NRF_MEMOBJ_CONFIG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3612;"	d
+NRF_MEMOBJ_CONFIG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3596;"	d
+NRF_MEMOBJ_CONFIG_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3569;"	d
+NRF_MEMOBJ_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3580;"	d
+NRF_MEMOBJ_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1238;"	d
+NRF_MPU_CONFIG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1575;"	d
+NRF_MPU_CONFIG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1559;"	d
+NRF_MPU_CONFIG_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1532;"	d
+NRF_MPU_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1543;"	d
+NRF_PWR_MGMT_CONFIG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3663;"	d
+NRF_PWR_MGMT_CONFIG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3647;"	d
+NRF_PWR_MGMT_CONFIG_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3620;"	d
+NRF_PWR_MGMT_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3631;"	d
+NRF_QUEUE_CONFIG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3726;"	d
+NRF_QUEUE_CONFIG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3710;"	d
+NRF_QUEUE_CONFIG_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3671;"	d
+NRF_QUEUE_CONFIG_LOG_INIT_FILTER_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3694;"	d
+NRF_QUEUE_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3682;"	d
+NRF_SAVED_REG_OFFSET	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	64;"	d
+NRF_SDH_ANT_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3777;"	d
+NRF_SDH_ANT_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3761;"	d
+NRF_SDH_ANT_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3734;"	d
+NRF_SDH_ANT_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3745;"	d
+NRF_SDH_BLE_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3828;"	d
+NRF_SDH_BLE_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3812;"	d
+NRF_SDH_BLE_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3785;"	d
+NRF_SDH_BLE_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3796;"	d
+NRF_SDH_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3879;"	d
+NRF_SDH_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3863;"	d
+NRF_SDH_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3836;"	d
+NRF_SDH_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3847;"	d
+NRF_SDH_SOC_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3930;"	d
+NRF_SDH_SOC_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3914;"	d
+NRF_SDH_SOC_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3887;"	d
+NRF_SDH_SOC_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3898;"	d
+NRF_SORTLIST_CONFIG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3981;"	d
+NRF_SORTLIST_CONFIG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3965;"	d
+NRF_SORTLIST_CONFIG_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3938;"	d
+NRF_SORTLIST_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3949;"	d
+NRF_STACK_GUARD_CONFIG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1626;"	d
+NRF_STACK_GUARD_CONFIG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1610;"	d
+NRF_STACK_GUARD_CONFIG_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1583;"	d
+NRF_STACK_GUARD_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1594;"	d
+NRF_STRERROR_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1245;"	d
+NRF_SYSTEM_CTRL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	42;"	d
+NRF_SYSTEM_ERASE	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	45;"	d
+NRF_SYSTEM_START	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	43;"	d
+NRF_SYSTEM_STATE	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	47;"	d
+NRF_SYSTEM_STATUS_OFF	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	/^	NRF_SYSTEM_STATUS_OFF,$/;"	e	enum:system_status
+NRF_SYSTEM_STATUS_ON	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	/^	NRF_SYSTEM_STATUS_ON,$/;"	e	enum:system_status
+NRF_SYSTEM_STATUS_UPDATE	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	/^	NRF_SYSTEM_STATUS_UPDATE,$/;"	e	enum:system_status
+NRF_SYSTEM_TYPE	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	49;"	d
+NRF_SYSTEM_UPDATE	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	44;"	d
+NRF_TWI_SENSOR_CONFIG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4032;"	d
+NRF_TWI_SENSOR_CONFIG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4016;"	d
+NRF_TWI_SENSOR_CONFIG_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	3989;"	d
+NRF_TWI_SENSOR_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4000;"	d
+NRF_USER_DEFINE1	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	61;"	d
+NRF_USER_DEFINE2	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	93;"	d
+OPT	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/Makefile	/^OPT = -O3 -g3$/;"	m
+OUTPUT_DIRECTORY	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/Makefile	/^OUTPUT_DIRECTORY := _build$/;"	m
+PAYLOAD_COUNT_PERPACKET	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.h	11;"	d
+PDM_CONFIG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1989;"	d
+PDM_CONFIG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1973;"	d
+PDM_CONFIG_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1946;"	d
+PDM_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1957;"	d
+PM_LOG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4083;"	d
+PM_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4040;"	d
+PM_LOG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4067;"	d
+PM_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4051;"	d
+PPI_CONFIG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2040;"	d
+PPI_CONFIG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2024;"	d
+PPI_CONFIG_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1997;"	d
+PPI_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2008;"	d
+PROJECT_NAME	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/Makefile	/^PROJECT_NAME     := esb_prx_pca10040$/;"	m
+PROJ_DIR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/Makefile	/^PROJ_DIR := ..\/..\/..$/;"	m
+PWM_CONFIG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2091;"	d
+PWM_CONFIG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2075;"	d
+PWM_CONFIG_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2048;"	d
+PWM_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2059;"	d
+QDEC_CONFIG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2142;"	d
+QDEC_CONFIG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2126;"	d
+QDEC_CONFIG_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2099;"	d
+QDEC_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2110;"	d
+RF_GZLL_PAYLOAD_SIZE	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.h	10;"	d
+RF_STATISTICS_PERIOD	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_timer.h	17;"	d
+RNG_CONFIG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2193;"	d
+RNG_CONFIG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2177;"	d
+RNG_CONFIG_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2150;"	d
+RNG_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2161;"	d
+RNG_CONFIG_RANDOM_NUMBER_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2200;"	d
+RTC_CONFIG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2251;"	d
+RTC_CONFIG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2235;"	d
+RTC_CONFIG_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2208;"	d
+RTC_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2219;"	d
+SAADC_CONFIG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2302;"	d
+SAADC_CONFIG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2286;"	d
+SAADC_CONFIG_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2259;"	d
+SAADC_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2270;"	d
+SDK_CONFIG_FILE	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/Makefile	/^SDK_CONFIG_FILE := ..\/config\/sdk_config.h$/;"	m
+SDK_CONFIG_H	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	44;"	d
+SDK_ROOT	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/Makefile	/^SDK_ROOT := ..\/..\/..\/..\/..\/..$/;"	m
+SEGGER_RTT_CONFIG_BUFFER_SIZE_DOWN	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4184;"	d
+SEGGER_RTT_CONFIG_BUFFER_SIZE_UP	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4174;"	d
+SEGGER_RTT_CONFIG_DEFAULT_MODE	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4204;"	d
+SEGGER_RTT_CONFIG_MAX_NUM_DOWN_BUFFERS	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4189;"	d
+SEGGER_RTT_CONFIG_MAX_NUM_UP_BUFFERS	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4179;"	d
+SER_HAL_TRANSPORT_CONFIG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4140;"	d
+SER_HAL_TRANSPORT_CONFIG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4124;"	d
+SER_HAL_TRANSPORT_CONFIG_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4097;"	d
+SER_HAL_TRANSPORT_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4108;"	d
+SPIS_CONFIG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2353;"	d
+SPIS_CONFIG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2337;"	d
+SPIS_CONFIG_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2310;"	d
+SPIS_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2321;"	d
+SPIS_TX_PERIOD	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_timer.h	16;"	d
+SPI_CONFIG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2404;"	d
+SPI_CONFIG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2388;"	d
+SPI_CONFIG_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2361;"	d
+SPI_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2372;"	d
+TARGETS	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/Makefile	/^TARGETS          := nrf52832_xxaa$/;"	m
+TASK_MANAGER_CONFIG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1677;"	d
+TASK_MANAGER_CONFIG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1661;"	d
+TASK_MANAGER_CONFIG_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1634;"	d
+TASK_MANAGER_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1645;"	d
+TEMPLATE_PATH	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/Makefile	/^TEMPLATE_PATH := $(SDK_ROOT)\/components\/toolchain\/gcc$/;"	m
+TIMER1_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4236;"	d
+TIMER2_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4240;"	d
+TIMER_CONFIG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2455;"	d
+TIMER_CONFIG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2439;"	d
+TIMER_CONFIG_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2412;"	d
+TIMER_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2423;"	d
+TIMER_DEFAULT_CONFIG_BIT_WIDTH	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4224;"	d
+TIMER_DEFAULT_CONFIG_IRQ_PRIORITY	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4228;"	d
+TIMER_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4220;"	d
+TWIS_ASSUME_INIT_AFTER_RESET_ONLY	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	4457;"	d
+TWIS_CONFIG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2506;"	d
+TWIS_CONFIG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2490;"	d
+TWIS_CONFIG_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2463;"	d
+TWIS_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2474;"	d
+TWIS_MAX_PAYLOAD_LENGTH	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	19;"	d
+TWI_CONFIG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2557;"	d
+TWI_CONFIG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2541;"	d
+TWI_CONFIG_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2514;"	d
+TWI_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2525;"	d
+UART0_CONFIG_USE_EASY_DMA	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1042;"	d
+UART0_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1036;"	d
+UART_CONFIG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2608;"	d
+UART_CONFIG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2592;"	d
+UART_CONFIG_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2565;"	d
+UART_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2576;"	d
+UART_DEFAULT_CONFIG_BAUDRATE	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	999;"	d
+UART_DEFAULT_CONFIG_HWFC	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	967;"	d
+UART_DEFAULT_CONFIG_IRQ_PRIORITY	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1016;"	d
+UART_DEFAULT_CONFIG_PARITY	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	976;"	d
+UART_EASY_DMA_SUPPORT	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1023;"	d
+UART_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	959;"	d
+UART_LEGACY_SUPPORT	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	1030;"	d
+USBD_CONFIG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2659;"	d
+USBD_CONFIG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2643;"	d
+USBD_CONFIG_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2616;"	d
+USBD_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2627;"	d
+WDT_CONFIG_DEBUG_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2710;"	d
+WDT_CONFIG_INFO_COLOR	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2694;"	d
+WDT_CONFIG_LOG_ENABLED	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2667;"	d
+WDT_CONFIG_LOG_LEVEL	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/config/sdk_config.h	2678;"	d
+__GS_EVENT_H__	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_gpio.h	8;"	d
+__GS_FLASH_H__	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_flash.h	2;"	d
+__GS_PRX_H__	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_prx.h	8;"	d
+__GS_RF_H__	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_rf.h	9;"	d
+__GS_SPIS_H__	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	8;"	d
+__GS_TIMER_H__	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_timer.h	9;"	d
+__GS_TWIS_H__	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	9;"	d
+__gs_ringbuf_H__	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.h	8;"	d
+addr	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.h	/^	uint8_t *addr;$/;"	m	struct:spis_packet
+addr	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	/^	uint8_t addr;$/;"	m	struct:twis_config
+availed	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.h	/^	uint8_t availed;$/;"	m	struct:spis_packet
+baseaddr0	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_rf.h	/^	uint8_t baseaddr0[8];$/;"	m	struct:gs_nrf_device
+baseaddr1	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_rf.h	/^	uint8_t baseaddr1[8];$/;"	m	struct:gs_nrf_device
+bat_rsv	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	/^	char  bat_rsv[8];$/;"	m	struct:gs_twis_reg
+batinfo	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	/^	short batinfo[8];						$/;"	m	struct:gs_twis_reg
+batstate	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	/^	char  batstate[8];$/;"	m	struct:gs_twis_reg
+battery_h	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_prx.h	/^	uint8_t battery_h;$/;"	m	struct:device_info
+battery_l	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_prx.h	/^	uint8_t battery_l;$/;"	m	struct:device_info
+buff	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.h	/^	uint8_t *buff;$/;"	m	struct:gs_ringbuf
+callback	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_timer.h	/^	void (*callback)(void *contex);$/;"	m	struct:gs_timer
+channel_set	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_rf.h	/^	uint8_t channel_set;$/;"	m	struct:gs_nrf_device
+channel_table	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_rf.h	/^	uint8_t channel_table[10];$/;"	m	struct:gs_nrf_device
+charge	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_prx.h	/^	uint8_t charge;$/;"	m	struct:device_info
+clocks_start	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_main.c	/^void clocks_start(void)$/;"	f
+cmd	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	/^	uint8_t cmd;$/;"	m	struct:gs_spis
+cmd	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	/^	uint8_t cmd;$/;"	m	struct:gs_spis_cmdline
+cmdarg	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_prx.h	/^	uint8_t cmdarg;$/;"	m	struct:gs_prx
+cmdval	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_prx.h	/^	uint8_t cmdval;$/;"	m	struct:gs_prx
+config	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	/^	struct spis_config config;$/;"	m	struct:gs_spis	typeref:struct:gs_spis::spis_config
+config	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	/^	struct twis_config config;$/;"	m	struct:gs_twis	typeref:struct:gs_twis::twis_config
+connect	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_prx.h	/^	uint8_t connect;$/;"	m	struct:device_info
+connect	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	/^	char connect;  					\/\/connect info$/;"	m	struct:gs_twis_reg
+contex	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_timer.h	/^	void *contex;$/;"	m	struct:gs_timer
+count	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.h	/^	uint8_t count;$/;"	m	struct:gs_rambuf
+csn	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	/^	uint8_t csn;$/;"	m	struct:spis_config
+current	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.h	/^	struct spis_packet *current;$/;"	m	struct:gs_ringbuf	typeref:struct:gs_ringbuf::spis_packet
+def	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	/^	uint8_t def;$/;"	m	struct:spis_config
+delay	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	/^	uint8_t delay;$/;"	m	struct:gs_spis_cmdline
+dev	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_timer.h	/^	nrf_drv_timer_t dev;$/;"	m	struct:gs_timer
+devcnt	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_prx.h	/^	uint8_t devcnt;$/;"	m	struct:gs_prx
+device_count	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	/^	char device_count;$/;"	m	struct:gs_twis_reg
+device_disconnect	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.c	/^static void device_disconnect(uint8_t devid)$/;"	f	file:
+device_info	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_prx.h	/^struct device_info {$/;"	s
+device_pid	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	/^	char device_pid;$/;"	m	struct:gs_twis_reg
+device_sid	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	/^	char device_sid;$/;"	m	struct:gs_twis_reg
+device_vid	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	/^	char device_vid;$/;"	m	struct:gs_twis_reg
+devid	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.h	/^	uint8_t *devid;$/;"	m	struct:spis_packet
+devlist	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_prx.h	/^	struct device_info  *devlist;$/;"	m	struct:gs_prx	typeref:struct:gs_prx::device_info
+disconnect	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	/^	char disconnect;             \/\/set which to disconnect$/;"	m	struct:gs_twis_reg
+enable	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_timer.h	/^	bool enable;$/;"	m	struct:gs_timer
+err	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	/^	char err;$/;"	m	struct:gs_twis
+flash	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_prx.h	/^	struct gs_flash	flash;$/;"	m	struct:gs_prx	typeref:struct:gs_prx::gs_flash
+flash_addr	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_flash.h	/^	void *flash_addr;$/;"	m	struct:gs_flash
+flash_init	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	/^	char flash_init;$/;"	m	struct:gs_twis_reg
+flash_start	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_flash.h	/^	uint32_t flash_start;$/;"	m	struct:gs_flash
+flash_stop	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_flash.h	/^	uint32_t flash_stop;$/;"	m	struct:gs_flash
+fstorage	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_flash.c	/^NRF_FSTORAGE_DEF(nrf_fstorage_t fstorage) =$/;"	v
+fstorage_erase	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_flash.c	/^int fstorage_erase(uint32_t addr, uint32_t pages_cnt)$/;"	f
+fstorage_evt_handler	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_flash.c	/^static void fstorage_evt_handler(nrf_fstorage_evt_t * p_evt)$/;"	f	file:
+fstorage_read	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_flash.c	/^int fstorage_read(uint32_t addr, void * data ,uint32_t len)$/;"	f
+fstorage_write	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_flash.c	/^int fstorage_write( uint32_t addr, void const * p_data,uint32_t len)$/;"	f
+g_devinfo	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_main.c	/^struct device_info g_devinfo[8] = {$/;"	v	typeref:struct:device_info
+g_esb_start	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_nrf_esb.c	/^static bool g_esb_start = false;$/;"	v	file:
+g_gpio	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_gpio.c	/^struct gs_gpios *g_gpio;$/;"	v	typeref:struct:gs_gpios
+g_gs_ringbuf_availabe_count	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.c	/^static uint8_t g_gs_ringbuf_availabe_count = 0;$/;"	v	file:
+g_prx	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_main.c	/^struct gs_prx g_prx = {$/;"	v	typeref:struct:gs_prx
+g_sdev	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.c	/^struct gs_spis *g_sdev = NULL;$/;"	v	typeref:struct:gs_spis
+g_sensor_reg	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.c	/^struct gs_twis_reg g_sensor_reg;$/;"	v	typeref:struct:gs_twis_reg
+g_timer	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_timer.c	/^struct gs_timer *g_timer = NULL;$/;"	v	typeref:struct:gs_timer
+g_twis	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.c	/^struct gs_twis *g_twis;$/;"	v	typeref:struct:gs_twis
+g_twis_reglist	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_main.c	/^struct gs_twis_reg  g_twis_reglist;$/;"	v	typeref:struct:gs_twis_reg
+get_gs_prx	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_nrf_gzll.c	/^static struct gs_prx *get_gs_prx(void)$/;"	f	file:
+get_gs_prx	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_timer.c	/^static struct gs_prx *get_gs_prx(void)$/;"	f	file:
+gpio	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_prx.h	/^	struct gs_gpios gpio;$/;"	m	struct:gs_prx	typeref:struct:gs_prx::gs_gpios
+gs_app_timer_init	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_timer.c	/^void gs_app_timer_init(struct gs_timer *timer)$/;"	f
+gs_app_timer_uninit	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_timer.c	/^void gs_app_timer_uninit(struct gs_timer *timer)$/;"	f
+gs_clear_ready_line	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_gpio.c	/^void gs_clear_ready_line(void)$/;"	f
+gs_esb_disable	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_nrf_esb.c	/^uint32_t gs_esb_disable(void)$/;"	f
+gs_esb_enable	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_nrf_esb.c	/^uint32_t gs_esb_enable(void)$/;"	f
+gs_esb_enabled	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_nrf_esb.c	/^bool gs_esb_enabled(void)$/;"	f
+gs_esb_init	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_nrf_esb.c	/^uint32_t gs_esb_init( void )$/;"	f
+gs_flash	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_flash.h	/^struct gs_flash {$/;"	s
+gs_flash_init	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_flash.c	/^int gs_flash_init(struct gs_flash *flash)$/;"	f
+gs_gpio_init	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_gpio.c	/^void gs_gpio_init(struct gs_gpios *gpio)$/;"	f
+gs_gpios	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_gpio.h	/^struct gs_gpios {$/;"	s
+gs_gzll_disable	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_nrf_gzll.c	/^void gs_gzll_disable(void)$/;"	f
+gs_gzll_enable	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_nrf_gzll.c	/^uint32_t gs_gzll_enable(void)$/;"	f
+gs_gzll_enabled	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_nrf_gzll.c	/^uint32_t gs_gzll_enabled(void)$/;"	f
+gs_gzll_init	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_nrf_gzll.c	/^uint32_t gs_gzll_init()$/;"	f
+gs_gzll_set_channel_table	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_nrf_gzll.c	/^uint32_t gs_gzll_set_channel_table()$/;"	f
+gs_nrf_device	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_rf.h	/^struct gs_nrf_device {$/;"	s
+gs_prx	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_prx.h	/^typedef struct gs_prx {$/;"	s
+gs_prx_t	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_prx.h	/^}gs_prx_t;$/;"	t	typeref:struct:gs_prx
+gs_rambuf	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.h	/^struct gs_rambuf {$/;"	s
+gs_rf_clean_rxfifo	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_nrf_gzll.c	/^void gs_rf_clean_rxfifo(uint32_t pipe)$/;"	f
+gs_rf_clean_txfifo	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_nrf_gzll.c	/^void gs_rf_clean_txfifo(uint32_t pipe)$/;"	f
+gs_rf_disable	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_rf.c	/^void gs_rf_disable()$/;"	f
+gs_rf_drop_packets_total	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_timer.c	/^volatile uint32_t gs_rf_drop_packets_total = 0;$/;"	v
+gs_rf_enable	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_rf.c	/^uint32_t gs_rf_enable()$/;"	f
+gs_rf_enabled	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_rf.c	/^uint32_t gs_rf_enabled()$/;"	f
+gs_rf_init	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_rf.c	/^uint32_t gs_rf_init()$/;"	f
+gs_rf_timer_handler	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_timer.c	/^void gs_rf_timer_handler(nrf_timer_event_t event_type,void *context)$/;"	f
+gs_rf_timer_init	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_timer.c	/^void gs_rf_timer_init(struct gs_timer *timer)$/;"	f
+gs_ringbuf	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.c	/^static struct gs_ringbuf gs_ringbuf[GS_DEFAULT_DEVICE_NUMBER];$/;"	v	typeref:struct:gs_ringbuf	file:
+gs_ringbuf	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.h	/^struct gs_ringbuf{$/;"	s
+gs_ringbuf_exit	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.c	/^static void gs_ringbuf_exit(struct gs_ringbuf *ringbuf)$/;"	f	file:
+gs_ringbuf_get_availabe_count	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.c	/^uint8_t gs_ringbuf_get_availabe_count(void)$/;"	f
+gs_ringbuf_get_by_devid	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.c	/^struct gs_ringbuf *gs_ringbuf_get_by_devid(uint8_t devid)$/;"	f
+gs_ringbuf_get_packet_availed	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.c	/^uint8_t gs_ringbuf_get_packet_availed(struct gs_ringbuf *ringbuf)$/;"	f
+gs_ringbuf_get_packet_count	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.c	/^uint8_t gs_ringbuf_get_packet_count(struct gs_ringbuf *ringbuf)$/;"	f
+gs_ringbuf_get_packet_size	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.c	/^uint8_t gs_ringbuf_get_packet_size(struct gs_ringbuf *ringbuf)$/;"	f
+gs_ringbuf_get_rxindex	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.c	/^int8_t gs_ringbuf_get_rxindex(struct gs_ringbuf *ringbuf)$/;"	f
+gs_ringbuf_get_rxpacket	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.c	/^struct spis_packet *gs_ringbuf_get_rxpacket(struct gs_ringbuf *ringbuf)$/;"	f
+gs_ringbuf_get_txindex	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.c	/^int8_t gs_ringbuf_get_txindex(struct gs_ringbuf *ringbuf)$/;"	f
+gs_ringbuf_get_txpacket	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.c	/^struct spis_packet *gs_ringbuf_get_txpacket(struct gs_ringbuf *ringbuf)$/;"	f
+gs_ringbuf_init	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.c	/^static int8_t gs_ringbuf_init(struct gs_ringbuf *ringbuf,uint8_t count,uint8_t size)$/;"	f	file:
+gs_ringbuf_list	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.c	/^struct gs_ringbuf *gs_ringbuf_list = gs_ringbuf;$/;"	v	typeref:struct:gs_ringbuf
+gs_ringbuf_list_init	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.c	/^uint8_t  gs_ringbuf_list_init(uint8_t count,uint8_t size,uint8_t device)$/;"	f
+gs_ringbuf_list_uninit	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.c	/^void gs_ringbuf_list_uninit(void)$/;"	f
+gs_set_delay_task	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_timer.c	/^int gs_set_delay_task(task_callback callback,void *contex,uint32_t delay)$/;"	f
+gs_set_ready_line	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_gpio.c	/^void gs_set_ready_line(void)$/;"	f
+gs_set_spis_idel	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.c	/^static void gs_set_spis_idel(struct gs_spis *sdev)$/;"	f	file:
+gs_spis	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	/^struct gs_spis {$/;"	s
+gs_spis_cmdline	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	/^struct gs_spis_cmdline {$/;"	s
+gs_spis_init	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.c	/^uint32_t gs_spis_init(struct gs_spis *sdev)$/;"	f
+gs_spis_send_sample	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.c	/^static void gs_spis_send_sample(void *contex)$/;"	f	file:
+gs_spis_start_audio	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.c	/^void gs_spis_start_audio(void)$/;"	f
+gs_spis_stop_audio	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.c	/^void gs_spis_stop_audio(uint8_t sleep)$/;"	f
+gs_system_erase	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.c	/^static void gs_system_erase()$/;"	f	file:
+gs_system_update	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.c	/^static void gs_system_update(void)$/;"	f	file:
+gs_timer	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_timer.h	/^struct gs_timer {$/;"	s
+gs_timer_disable	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_timer.c	/^int gs_timer_disable()$/;"	f
+gs_timer_enable	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_timer.c	/^int gs_timer_enable()$/;"	f
+gs_twis	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	/^struct gs_twis {$/;"	s
+gs_twis_device_reset	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.c	/^static void gs_twis_device_reset(struct gs_twis *dev)$/;"	f	file:
+gs_twis_event_handler	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.c	/^static void gs_twis_event_handler(nrf_drv_twis_evt_t const * const p_event)$/;"	f	file:
+gs_twis_init	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.c	/^uint32_t gs_twis_init(struct gs_twis *tdev)$/;"	f
+gs_twis_read_start	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.c	/^static void gs_twis_read_start(void)$/;"	f	file:
+gs_twis_read_stop	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.c	/^static void gs_twis_read_stop(size_t cnt)$/;"	f	file:
+gs_twis_reg	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	/^struct gs_twis_reg{$/;"	s
+gs_twis_start_system	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.c	/^static void gs_twis_start_system(void)$/;"	f	file:
+gs_twis_stop_system	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.c	/^static void gs_twis_stop_system(uint8_t sleep)$/;"	f	file:
+gs_twis_write_start	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.c	/^static void gs_twis_write_start(void)$/;"	f	file:
+gs_twis_write_stop	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.c	/^static void gs_twis_write_stop(size_t cnt)$/;"	f	file:
+head	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	/^	uint8_t head[2];$/;"	m	struct:gs_spis_cmdline
+heartbeat	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_prx.h	/^	uint8_t heartbeat;$/;"	m	struct:device_info
+heartbeat	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_prx.h	/^	volatile uint8_t heartbeat;$/;"	m	struct:gs_prx
+host_addr_prefix	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	/^	char host_addr_prefix[8];$/;"	m	struct:gs_twis_reg
+host_base_addr0	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	/^	char host_base_addr0[4];$/;"	m	struct:gs_twis_reg
+host_base_addr1	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	/^	char host_base_addr1[4];$/;"	m	struct:gs_twis_reg
+host_chn_rsv	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	/^	char host_chn_rsv[5];$/;"	m	struct:gs_twis_reg
+host_chn_set	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	/^	char host_chn_set;				$/;"	m	struct:gs_twis_reg
+host_chn_table	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	/^	char host_chn_table[10];			$/;"	m	struct:gs_twis_reg
+host_resv	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	/^	char host_resv[12];$/;"	m	struct:gs_twis_reg
+index	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.h	/^	uint8_t index;$/;"	m	struct:spis_packet
+init	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_gpio.h	/^	unsigned char init;$/;"	m	struct:gs_gpios
+length	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	/^	uint8_t length;$/;"	m	struct:gs_spis
+m_ack_payload	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_nrf_gzll.c	/^static uint8_t 	m_ack_payload[6] = {0xef,0x01,0x00,0x00,0x55,0xaa};$/;"	v	file:
+m_data_payload	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_nrf_gzll.c	/^static uint8_t		m_data_payload[NRF_GZLL_CONST_MAX_PAYLOAD_LENGTH];$/;"	v	file:
+main	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_main.c	/^int main(void)$/;"	f
+miso	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	/^	uint8_t miso;$/;"	m	struct:spis_config
+mode	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	/^	uint8_t mode;$/;"	m	struct:spis_config
+mosi	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	/^	uint8_t mosi;$/;"	m	struct:spis_config
+nrf	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_prx.h	/^	struct gs_nrf_device	nrf;$/;"	m	struct:gs_prx	typeref:struct:gs_prx::gs_nrf_device
+nrf5_flash_end_addr_get	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_flash.c	/^static uint32_t nrf5_flash_end_addr_get()$/;"	f	file:
+nrf_esb_event_handler	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_nrf_esb.c	/^void nrf_esb_event_handler(nrf_esb_evt_t const * p_event)$/;"	f
+nrf_gzll_device_tx_failed	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_nrf_gzll.c	/^void nrf_gzll_device_tx_failed(uint32_t pipe, nrf_gzll_device_tx_info_t tx_info)$/;"	f
+nrf_gzll_device_tx_success	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_nrf_gzll.c	/^void nrf_gzll_device_tx_success(uint32_t pipe, nrf_gzll_device_tx_info_t tx_info)$/;"	f
+nrf_gzll_disabled	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_nrf_gzll.c	/^void nrf_gzll_disabled()$/;"	f
+nrf_gzll_host_rx_data_ready	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_nrf_gzll.c	/^void nrf_gzll_host_rx_data_ready(uint32_t pipe, nrf_gzll_host_rx_info_t rx_info)$/;"	f
+nrf_type	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	/^enum nrf_type {$/;"	g
+orc	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	/^	uint8_t orc;$/;"	m	struct:spis_config
+packetlist	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.h	/^	struct spis_packet *packetlist;$/;"	m	struct:gs_ringbuf	typeref:struct:gs_ringbuf::spis_packet
+parinfo	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	/^	char parinfo[32];$/;"	m	struct:gs_twis_reg
+payload_data	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	/^	uint8_t payload_data[128];$/;"	m	struct:gs_spis_cmdline
+payload_len	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	/^	uint8_t payload_len;$/;"	m	struct:gs_spis_cmdline
+period	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_timer.h	/^	uint32_t period;  \/\/ms$/;"	m	struct:gs_timer
+pipe	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_prx.h	/^	uint8_t pipe;$/;"	m	struct:device_info
+pipe_recived_bytes_per_sec	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_timer.c	/^volatile uint32_t pipe_recived_bytes_per_sec[8] = {0};$/;"	v
+power_manage	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_flash.c	/^static void power_manage(void)$/;"	f	file:
+prefix	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_rf.h	/^	uint8_t prefix[8];$/;"	m	struct:gs_nrf_device
+print_flash_info	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_flash.c	/^static void print_flash_info(nrf_fstorage_t * p_fstorage)$/;"	f	file:
+priority	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	/^	uint8_t priority;$/;"	m	struct:spis_config
+priority	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	/^	uint8_t priority;$/;"	m	struct:twis_config
+prx_cmd	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_prx.h	/^enum prx_cmd {$/;"	g
+ready_line	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_gpio.h	/^	unsigned char  ready_line;$/;"	m	struct:gs_gpios
+reg	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	/^	char reg;$/;"	m	struct:gs_twis
+regbase	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	/^	struct gs_twis_reg *regbase;$/;"	m	struct:gs_twis	typeref:struct:gs_twis::gs_twis_reg
+reglist	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	/^	struct gs_twis_reg *reglist;$/;"	m	struct:gs_twis	typeref:struct:gs_twis::gs_twis_reg
+remind	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.h	/^	uint8_t remind;$/;"	m	struct:spis_packet
+resv	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	/^	char resv[80];$/;"	m	struct:gs_twis_reg
+resved	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	/^	char resved[4];$/;"	m	struct:gs_twis_reg
+rf_recived_bytes_per_sec	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_timer.c	/^volatile uint32_t rf_recived_bytes_per_sec = 0;$/;"	v
+rf_request_payload_addr	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.c	/^uint8_t *rf_request_payload_addr(struct gs_ringbuf *ringbuf,uint8_t size)$/;"	f
+ringbuf_count	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	/^	char ringbuf_count;$/;"	m	struct:gs_twis_reg
+ringbuf_dump	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.c	/^static void ringbuf_dump(struct gs_ringbuf *ringbuf)$/;"	f	file:
+ringbuf_status	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.h	/^enum ringbuf_status {$/;"	g
+round_up_u32	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_flash.c	/^static uint32_t round_up_u32(uint32_t len)$/;"	f	file:
+rw	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	/^	char rw;$/;"	m	struct:gs_twis
+rwbuf	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	/^	char rwbuf[TWIS_MAX_PAYLOAD_LENGTH]; \/\/support max per packet$/;"	m	struct:gs_twis
+rx_buf	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	/^	uint8_t rx_buf[GS_SPIS_MAX_LENGTH];$/;"	m	struct:gs_spis
+rx_index	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.h	/^	uint8_t rx_index;$/;"	m	struct:gs_ringbuf
+rx_payload	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_nrf_esb.c	/^nrf_esb_payload_t rx_payload;$/;"	v
+rx_ptr	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	/^	uint8_t *rx_ptr;$/;"	m	struct:gs_spis
+sample_count	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	/^	char sample_count;$/;"	m	struct:gs_twis_reg
+sample_unit	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	/^	char sample_unit;$/;"	m	struct:gs_twis_reg
+sck	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	/^	uint8_t sck;$/;"	m	struct:spis_config
+scl	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	/^	uint8_t scl;$/;"	m	struct:twis_config
+sda	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	/^	uint8_t sda;$/;"	m	struct:twis_config
+spi_slave_event_handle	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.c	/^static void spi_slave_event_handle(nrf_drv_spis_event_t event)$/;"	f	file:
+spis	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_prx.h	/^	struct gs_spis	spis;$/;"	m	struct:gs_prx	typeref:struct:gs_prx::gs_spis
+spis	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	/^	nrf_drv_spis_t spis;$/;"	m	struct:gs_spis
+spis_config	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	/^struct spis_config {$/;"	s
+spis_lock	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	/^	bool spis_lock;$/;"	m	struct:gs_spis
+spis_packet	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.h	/^struct spis_packet{$/;"	s
+spis_packet_count	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.h	/^	uint8_t spis_packet_count;$/;"	m	struct:gs_ringbuf
+spis_packet_init	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.c	/^static int8_t spis_packet_init(struct gs_ringbuf *ringbuf)$/;"	f	file:
+spis_packet_set_head	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.c	/^void spis_packet_set_head(struct spis_packet *packet,uint8_t type,uint8_t devid)$/;"	f
+spis_packet_set_status	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.c	/^void spis_packet_set_status(struct spis_packet *packet,enum ringbuf_status status)$/;"	f
+spis_packet_size	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.h	/^	uint8_t spis_packet_size;$/;"	m	struct:gs_ringbuf
+spis_parse_cmdline	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.c	/^static void spis_parse_cmdline(struct gs_spis_cmdline *cmdline)$/;"	f	file:
+spis_xfer	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_prx.h	/^	void (*spis_xfer) (void *contex);$/;"	m	struct:gs_prx
+start	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.h	/^	uint8_t *start;$/;"	m	struct:spis_packet
+state	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	/^	uint8_t state;$/;"	m	struct:gs_spis
+status	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.h	/^	uint8_t status;$/;"	m	struct:spis_packet
+status	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	/^	char status;$/;"	m	struct:gs_twis
+sync	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_prx.h	/^	bool sync;$/;"	m	struct:device_info
+system_ctrl	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	/^	char system_ctrl;$/;"	m	struct:gs_twis_reg
+system_resv	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	/^	char system_resv[13];$/;"	m	struct:gs_twis_reg
+system_samtype	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	/^	char system_samtype;$/;"	m	struct:gs_twis_reg
+system_state	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	/^	char system_state;$/;"	m	struct:gs_twis_reg
+system_status	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	/^enum system_status {$/;"	g
+task_callback	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_timer.h	/^typedef void (*task_callback)(void *contex);$/;"	t
+task_delay	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_timer.h	/^	uint32_t task_delay; \/\/ticks$/;"	m	struct:gs_timer
+temped_rsv	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	/^	char temped_rsv[32];$/;"	m	struct:gs_twis_reg
+ticks	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_timer.h	/^	uint32_t ticks;$/;"	m	struct:gs_timer
+ticks_count	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_timer.h	/^	uint32_t ticks_count;$/;"	m	struct:gs_timer
+timer	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_prx.h	/^	struct gs_timer timer;$/;"	m	struct:gs_prx	typeref:struct:gs_prx::gs_timer
+twis	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_prx.h	/^	struct gs_twis	twis;$/;"	m	struct:gs_prx	typeref:struct:gs_prx::gs_twis
+twis	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	/^	nrf_drv_twis_t twis;$/;"	m	struct:gs_twis
+twis_config	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	/^struct twis_config {$/;"	s
+tx_buf	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	/^	uint8_t tx_buf[GS_SPIS_MAX_LENGTH];$/;"	m	struct:gs_spis
+tx_index	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.h	/^	uint8_t tx_index;$/;"	m	struct:gs_ringbuf
+tx_ptr	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	/^	uint8_t *tx_ptr;$/;"	m	struct:gs_spis
+txpacket	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	/^	struct spis_packet *txpacket;$/;"	m	struct:gs_spis	typeref:struct:gs_spis::spis_packet
+type	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_ringbuf.h	/^	uint8_t *type;$/;"	m	struct:spis_packet
+version	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_prx.h	/^	char  *version;$/;"	m	struct:gs_prx
+version	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_twis.h	/^	char version[6];$/;"	m	struct:gs_twis_reg
+wait_for_flash_ready	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_flash.c	/^void wait_for_flash_ready(void)$/;"	f
+xfer_callback	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	/^	void (*xfer_callback)(void *contex);$/;"	m	struct:gs_spis
+xfer_done	/home/mjpu/works/gvc3220/nrf52832/SDK/SDK_15_02/examples/gs/gvc3220/nrf52832/wireless_mic/app/gs_spis.h	/^	bool xfer_done;$/;"	m	struct:gs_spis
